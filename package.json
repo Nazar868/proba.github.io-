@@ -1,18 +1,18 @@
 {
-	"name": "umt-markup-practice-makedonoleksandr",
+	"name": "proba.github.io",
 	"version": "1.0.0",
-	"description": "Flora — flower boutique landing page (UMT markup practice)",
+	"description": "Flora — flower boutique landing page (proba.github.io)",
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
 		"preview": "vite preview",
-		"preview:pages": "GITHUB_ACTIONS=true GITHUB_REPOSITORY=saniksin/UMT-markup-practice-MakedonOleksandr VITE_API_MODE=static sh -c 'vite build && vite preview'",
+		"preview:pages": "GITHUB_ACTIONS=true GITHUB_REPOSITORY=saniksin/proba.github.io VITE_API_MODE=static sh -c 'vite build && vite preview'",
 		"build": "vite build",
 		"api": "json-server db.json --port 3001"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:saniksin/UMT-markup-practice-MakedonOleksandr.git"
+		"url": "git@github.com:saniksin/proba.github.io.git"
 	},
 	"keywords": [],
 	"author": "",
