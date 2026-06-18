@@ -303,7 +303,7 @@ body.menu-open .header {
 	width: 100%;
 	height: 510px;
 	background-color: #d9d9d9;
-	background-image: url("/images/hero-bg@1x.jpg");
+	background-image: url("/images/preview (13).jpg");
 	background-repeat: no-repeat;
 	background-position: 53% 50%;
 	background-size: cover;
@@ -315,7 +315,7 @@ body.menu-open .header {
 
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
 	.hero {
-		background-image: url("/images/hero-bg@2x.jpg");
+		background-image: url("/images/preview (14).jpg");
 	}
 }
 
